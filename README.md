@@ -52,7 +52,7 @@ User Service – Handles login, profile, and auth
 
 Blog Service – Manages posts, titles, tags, and CRUD
 
-Comment Service (optional) – Manages comments and discussions
+Comment Service – Manages comments and discussions
 
 🌐 Live Demo
 🟢 Visit Kernel Thoughts
