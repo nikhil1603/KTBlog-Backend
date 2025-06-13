@@ -2,6 +2,7 @@
 Kernel Thoughts is a full-stack blogging platform where users can share insightful, technical content. Designed with scalability, security, and a clean developer experience in mind, this project demonstrates microservices architecture, modern frontend frameworks, and robust authentication.
 
 🚀 Features
+
 📝 Create, edit, and delete blog posts
 
 🔒 Google OAuth 2.0 authentication
@@ -19,31 +20,31 @@ Kernel Thoughts is a full-stack blogging platform where users can share insightf
 ⚡ Fast loading with Next.js + dynamic routing
 
 🧱 Tech Stack
-Frontend
+Frontend :
 
-Next.js 14+ App Router
+-Next.js 14+ App Router
 
-Tailwind CSS + shadcn/ui
+-Tailwind CSS + shadcn/ui
 
-TypeScript
+-TypeScript
 
-Vercel (deployment)
+-Vercel (deployment)
 
-Backend (Microservices)
+Backend (Microservices):
 
-Express.js
+-Express.js
 
-MongoDB & Mongoose
+-MongoDB & Mongoose
 
-PostgreSQL (for comments or auth)
+-PostgreSQL (for comments or auth)
 
-Redis (for caching)
+-Redis (for caching)
 
-Docker (for containerization)
+-Docker (for containerization)
 
-Google OAuth (for secure login)
+-Google OAuth (for secure login)
 
-RabbitMQ (used for communication)
+-RabbitMQ (used for communication)
 
 🗂 Architecture
 The project is structured as multiple services:
